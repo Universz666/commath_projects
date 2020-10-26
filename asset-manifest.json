@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/commath_project/static/css/main.9798fb4c.chunk.css",
+    "main.js": "/commath_project/static/js/main.f61e11da.chunk.js",
+    "main.js.map": "/commath_project/static/js/main.f61e11da.chunk.js.map",
+    "runtime-main.js": "/commath_project/static/js/runtime-main.9d6c7ebd.js",
+    "runtime-main.js.map": "/commath_project/static/js/runtime-main.9d6c7ebd.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/commath_project/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.1e6c5a9e.chunk.js": "/commath_project/static/js/2.1e6c5a9e.chunk.js",
+    "static/js/2.1e6c5a9e.chunk.js.map": "/commath_project/static/js/2.1e6c5a9e.chunk.js.map",
+    "index.html": "/commath_project/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/commath_project/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.9798fb4c.chunk.css.map": "/commath_project/static/css/main.9798fb4c.chunk.css.map",
+    "static/js/2.1e6c5a9e.chunk.js.LICENSE.txt": "/commath_project/static/js/2.1e6c5a9e.chunk.js.LICENSE.txt",
+    "static/media/logo.2d27ead7.svg": "/commath_project/static/media/logo.2d27ead7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d6c7ebd.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.1e6c5a9e.chunk.js",
+    "static/css/main.9798fb4c.chunk.css",
+    "static/js/main.f61e11da.chunk.js"
+  ]
+}
