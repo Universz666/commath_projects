@@ -15,7 +15,7 @@ const routes = [
     element: <Main />,
   },
   {
-    path: "commath_project",
+    path: "commath_projects",
     element: <Main />,
   },
   {
